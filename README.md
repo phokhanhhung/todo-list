@@ -22,6 +22,8 @@ This project is used to manage your tasks, which you could create new task, mark
 
 ## Usage
 
+start
+
 ## Documents
 
 **Material UI**: [mui.com](https://mui.com/)

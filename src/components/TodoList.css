@@ -1,0 +1,13 @@
+.todo-list {
+  padding: 20px 20px 0;
+  height: 100vh;
+  color: #fff;
+}
+
+.todo-list .MuiDivider-root {
+  background-color: #fff;
+}
+
+.MuiGrid-root {
+  margin-bottom: 10px;
+}

@@ -2,7 +2,7 @@
 This is a React.js project that utilizes Material UI to build a task management website. It provides functionalities to create tasks, mark tasks as done, and delete tasks.
 
 ## Installation
-1. Clone the repository to your local machine: *git clone https://github.com/your-username/react-task-manager.git*
+1. Clone the repository to your local machine: *git clone https://github.com/phokhanhhung/todo-list.git*
 2. Navigate to the project directory: *cd react-task-manager*
 3. Install the dependencies using npm or yarn: *npm install* or *yarn install*
 

@@ -46,8 +46,7 @@ function TaskForm({ handleClosedFormInfo, handleFormInfo }) {
             label="Title"
             onChange={(e) => setTitle(e.target.value)}
             required
-            variant="outlined"
-            color="secondary"
+            color="primary"
             type="text"
             sx={{ mb: 3 }}
             fullWidth
@@ -57,8 +56,7 @@ function TaskForm({ handleClosedFormInfo, handleFormInfo }) {
           <TextField
             label="Note"
             onChange={(e) => setNote(e.target.value)}
-            variant="outlined"
-            color="secondary"
+            color="primary"
             type="text"
             value={note}
             fullWidth
@@ -67,7 +65,7 @@ function TaskForm({ handleClosedFormInfo, handleFormInfo }) {
 
           <Grid container spacing={2}>
             <Grid item>
-              <Button variant="outlined" color="success" type="submit">
+              <Button variant="outlined" color="primary" type="submit">
                 Save
               </Button>
             </Grid>
